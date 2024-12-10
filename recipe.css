@@ -1,0 +1,127 @@
+.back {
+    background-color: green;
+    height: 100vh;
+}
+
+.img {
+    height: 180px;
+    width: 180px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.h {
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.h1 {
+    font-family: Roboto;
+}
+
+.p {
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.ali {
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+}
+
+.back1 {
+    background-color: #151765;
+}
+
+.img1 {
+    height: 180px;
+    width: 180px;
+}
+
+.h2 {
+    color: white;
+    font-family: Roboto;
+}
+
+.p1 {
+    color: black;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p2 {
+    color: black;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p3 {
+    color: grey;
+    font-family: Roboto;
+}
+
+.p4 {
+    color: #151765;
+    font-family: Roboto;
+    padding-top: 4px;
+    font-weight: bold;
+}
+
+.h3 {
+    color: #151765;
+    font-family: Roboto;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.but {
+    color: white;
+    background-color: #151765;
+    font-family: Roboto;
+    border-radius: 20px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+.ali1 {
+    text-align: right;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.ol {
+    list-style-type: upper-roman;
+}
+
+.sp {
+    color: gold;
+}
+
+button {
+    text-align: center;
+    border-radius: 10px;
+    font-family: Roboto;
+    border-width: 0px;
+    background-color: black;
+    color: white;
+}
